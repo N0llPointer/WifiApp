@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:drawableStart="@drawable/ic_smartphone"
+    android:drawablePadding="20dp"
+    android:ellipsize="marquee"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:gravity="center_vertical"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    android:paddingStart="14dip"
+    android:paddingEnd="15dip"
+    android:text="Peer"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:textColor="?android:attr/textColorAlertDialogListItem" />
